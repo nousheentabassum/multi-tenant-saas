@@ -13,7 +13,11 @@ Each tenant’s data is isolated to ensure security while maintaining a scalable
 - **Database**: MongoDB (Mongoose)  
 - **Caching**: Redis  
 - **Authentication**: JWT  
-- **Deployment**: Docker  
+- **Deployment**: Docker
+
+## Architecture Diagram
+   <img width="3770" height="1361" alt="mermaid-diagram (2)" src="https://github.com/user-attachments/assets/0f84024c-4a7f-44ac-aa5b-72b24147e1c2" />
+
 
 ## ⚙️ Core Features
 
