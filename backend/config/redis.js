@@ -1,5 +1,5 @@
 const { createClient } = require("redis");
-
+              
 let client = null;
 
 /** In-memory mock for test env when Redis is not available */
