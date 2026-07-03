@@ -1,5 +1,5 @@
 const Project = require("../models/Project");
-const { getRedis } = require("../config/redis");
+const { getRedis } = require("../config/redis");   
 const emailQueue = require("../queues/emailQueue");
 
 // ================= CREATE PROJECT =================
