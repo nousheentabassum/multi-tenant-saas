@@ -1,7 +1,7 @@
 console.log("TASK ROUTES FILE LOADED");
 
 const express = require("express");
-const router = express.Router();
+const router = express.Router();   
 
 const auth = require("../middleware/authMiddleware");
 const rateLimit = require("../middleware/tenantRateLimit");
